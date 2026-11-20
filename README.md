@@ -5,3 +5,9 @@
 )
 
 ![Bekijk de image](<img width="1920" height="1078" alt="20261120-1152-23 6266856" src="https://github.com/user-attachments/assets/ec18ebaa-f3ce-4206-b95d-adf8a9b678ac" />)
+
+## Voortgang
+- [x] Unity project aangemaakt
+- [x] Repository geïnitialiseerd
+- [x] Project gepusht naar GitHub
+- [ ] Eerste speelbare scène gemaakt
